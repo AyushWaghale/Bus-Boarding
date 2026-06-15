@@ -1,0 +1,15 @@
+{
+  "name": "bus-boarding-backend",
+  "version": "1.0.0",
+  "description": "Backend API for generating bus boarding sequences",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
